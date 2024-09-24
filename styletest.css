@@ -3,7 +3,7 @@ body {
 }
 
 h1  {
-  color: #000;
+  color: #f40808;
 }
 
 div#test01 {
@@ -12,4 +12,23 @@ div#test01 {
 
 .important {
   color: #a00;
+}
+
+td {
+  text-align: center;
+  border: solid thin;
+}
+
+th {
+  border: solid thin;
+}
+
+.last3{
+  font-weight: bold;
+}
+.ol {
+  background-color: rgb(113, 172, 172);
+}
+.header {
+  background-color: lightpink;
 }
